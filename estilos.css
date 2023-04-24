@@ -1,0 +1,234 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 10px;
+    row-gap: 20px;
+    
+    
+}
+
+.perfil{
+    padding-left: 55px;
+}
+
+.box1{
+    background:linear-gradient(to right, gray 0%, gray 50%, brown 50%, brown 100% )
+}
+
+.contacto-grid{
+    display: grid;
+    grid-template-columns: 5% 95%;
+    grid-gap: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.contact{
+    padding-top: 25px;
+    margin-left: 100px;
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+
+
+.img-correo{
+    float: right;
+    padding-top: 10px;
+}
+
+.img-telefono{
+    float: right;
+    padding-top: 10px;
+    
+}
+
+.img-ubicacion{
+    float: right;
+    padding-top: 10px;
+
+}
+
+.img-linkedin{
+    float: right;
+    padding-top: 3px;
+}
+    
+.habilidades-grid{
+    display: grid;
+    grid-template-columns: 30% 70%;
+
+}
+
+.barra-diseno{
+    width: 60%;
+    height: 20%;
+    border-style: groove;
+    float: center;
+    margin: 0px;
+    background: linear-gradient(to right, blue 0%, blue 80%, white 20%, white 100%);
+
+}
+
+.skills{
+    padding-top: 25px;
+    margin-left: 100px;
+    font-family: fantasy;
+    font-size: 30px; 
+}
+
+.barra-analisis{
+    width: 60%;
+    height: 20%;
+    border-style: groove;
+    float: center;
+    margin: 0px;
+    background: linear-gradient(to right, blue 0%, blue 90%, white 10%, white 100%);
+
+}
+
+.barra-contenido{
+    width: 60%;
+    height: 20%;
+    border-style: groove;
+    float: center;
+    margin: 0px;
+    background: linear-gradient(to right, blue 0%, blue 50%, white 50%, white 100%);
+
+}
+
+.barra-bases{
+    width: 60%;
+    height: 20%;
+    border-style: groove;
+    float: center;
+    margin: 0px;
+    background: linear-gradient(to right, blue 0%, blue 60%, white 40%, white 100%);
+
+}
+
+#p1{
+    text-align: center;
+    margin-top: 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#p2{
+    text-align: center;
+    margin-top: 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#p3{
+    text-align: center;
+    margin-top: 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#p4{
+    text-align: center;
+    margin-top: 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.software-grid{
+    display: grid;
+    grid-template-columns: 30% 70%;
+
+}
+
+.barra-azure{
+    width: 60%;
+    height: 20%;
+    border-style: groove;
+    float: center;
+    margin: 0px;
+    background: linear-gradient(to right, blue 0%, blue 50%, white 50%,white 100%);
+
+}
+
+.barra-github{
+    width: 60%;
+    height: 20%;
+    border-style: groove;
+    float: center;
+    margin: 0px;
+    background: linear-gradient(to right, blue 0%, blue 90%, white 10%, white 100%);
+
+}
+
+.barra-visual{
+    width: 60%;
+    height: 20%;
+    border-style: groove;
+    float: center;
+    margin: 0px;
+    background: linear-gradient(to right, blue 0%, blue 70%, white 30%, white 100%);
+
+}
+
+.software-title{
+        padding-top: 25px;
+        margin-left: 100px;
+        font-family: fantasy;
+        font-size: 30px;
+}
+
+.software-apps{
+    text-align: center;
+    margin-top: 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.hobbies{
+    padding-top: 25px;
+    margin-left: 100px;
+    font-family: fantasy;
+    font-size: 30px;
+
+}
+
+.img-hobbies{
+    padding-left: 60px;
+    float: center;
+}
+
+.nombre{
+    padding-left: 30px;
+    padding-bottom: 45px;
+    padding-top: 40px;
+    float: center;
+    font-style: italic;
+}
+
+.Nombre2{
+    font-size: 55px;
+    text-align: center;
+    padding-right: 40px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.Apellido{
+    font-size: 75px;
+    text-align: center;
+    padding-right: 40px;
+    padding-top: 0px;
+    margin-top: 0px;
+
+}
+
+.ingeniero{
+    padding-top: 5px;
+    margin-left: 20px;
+    font-family: fantasy;
+    font-size: 30px;
+
+}
+
+.letters{
+    font-size: 20px;
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
